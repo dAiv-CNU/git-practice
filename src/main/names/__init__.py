@@ -14,3 +14,4 @@ from . import 신해솔
 from . import 김소현
 from . import 박혜리
 from . import 김태양 
+from . import 김도운
