@@ -10,3 +10,4 @@ from . import 김재현
 from . import 방준석
 from . import 조성주
 from . import 정진영 
+from . import 신해솔
