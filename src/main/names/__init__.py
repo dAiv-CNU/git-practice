@@ -36,3 +36,4 @@ from . import 도유진
 from . import 강민지
 from . import 남궁선
 from . import 윤찬영
+from . import 김지찬
