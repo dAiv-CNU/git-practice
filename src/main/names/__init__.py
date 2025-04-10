@@ -32,4 +32,4 @@ from . import 한다연
 from . import 박인용
 from . import 김태린
 from . import 도유진
-
+from . import 강민지
