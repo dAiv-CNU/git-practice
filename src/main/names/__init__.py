@@ -1,5 +1,6 @@
 from . import 김성민
 
+
 # 여기에 각자 이름을 추가
 from . import 박지열
 from . import 조윤서
@@ -33,3 +34,4 @@ from . import 박인용
 from . import 김태린
 from . import 도유진
 from . import 강민지
+from . import 남궁선
