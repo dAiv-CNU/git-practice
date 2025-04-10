@@ -15,3 +15,4 @@ from . import 박혜리
 from . import 김태양 
 from . import 김도운
 from . import 장수민
+from . import 강태인
