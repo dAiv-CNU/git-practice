@@ -1,4 +1,4 @@
-from . import 최승제
+from . import 김성민
 
 
 # 여기에 각자 이름을 추가
@@ -27,3 +27,4 @@ from . import 이현태
 from . import 현창엽
 from . import 신윤희
 from . import 이수완
+from . import 김성민
