@@ -1,6 +1,5 @@
 from . import 김성민
 
-from . import 오준서
 # 여기에 각자 이름을 추가
 from . import 박지열
 from . import 조윤서
@@ -28,3 +27,5 @@ from . import 현창엽
 from . import 신윤희
 from . import 이수완
 from . import 김성민
+from . import 오준서
+from . import 한다연
