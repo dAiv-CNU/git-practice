@@ -16,3 +16,4 @@ from . import 김태양
 from . import 김도운
 from . import 장수민
 from . import 강태인
+from . import 윤웅배
