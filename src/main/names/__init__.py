@@ -30,3 +30,4 @@ from . import 김성민
 from . import 오준서
 from . import 한다연
 from . import 박인용
+from . import 김태린
